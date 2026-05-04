@@ -35,8 +35,8 @@ id | song | anime
 32 | When Supernatural Battles Became Commonplace - OVERLAPPERS | Opening 1
 33 | Aldnoah.Zero - aLIEz | Aldnoah.Zero ( Hiroyuki Sawano ) ( Ending 2 )
 34 | Aldnoah.Zero - Heavenly Blue | Aldnoah.Zero ( Opening 1 )
-   | Never Stop (feat. Laco) ( Hiroyuki Sawano )
-   | Aldnoah.Zero - MKAlieZ ( Hiroyuki Sawano )
+&  | Never Stop (feat. Laco) ( Hiroyuki Sawano )
+&  | Aldnoah.Zero - MKAlieZ ( Hiroyuki Sawano )
 35 | Fire Force | Mrs. GREEN APPLE - Inferno
 36 | Ikimonogakari - Blue Bird | Naruto
 37 | Ikimonogakari - Hotarunohikari | Naruto
