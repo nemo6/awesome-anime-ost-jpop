@@ -141,11 +141,11 @@ id|name
 
 id|name
 -|-
-01 | Kana Hanazawa ( singer, girly )
+01 | Kana Hanazawa ( girly )
 02 | Taku Iwasaki
 03 | Asian Kung-Fu Generation
 04 | RADWIMPS
-05 | MYTH & ROID ( singer, anime )
+05 | MYTH & ROID ( anime )
 06 | Japanese Breakfast
 07 | Mitski
 08 | PSYQUI ( electro )
@@ -167,14 +167,14 @@ id|name
 24 | Asami Tachibana
 25 | Kurokotei
 26 | Creepy Nuts ( rock )
-27 | YOASOBI ( singer )
-28 | Ado ( pop,singer )
-29 | KANA-BOON ( singer, anime )
+27 | YOASOBI
+28 | Ado ( pop )
+29 | KANA-BOON ( anime )
 30 | MILGRAM
 31 | Alohaii / Lone Alpha ( girly )
-31 | CAPSULE ( Toshiko Koshijima, Yasutaka Nakata )
+31 | CAPSULE ( Toshiko Koshijima , Yasutaka Nakata )
 32 | Syudou
-33 | Kanon Wakeshima ( singer, epic, classic )
+33 | Kanon Wakeshima ( epic , classic )
 34 | Aqu3ra
 35 | ROOKiEZ is PUNK'D ( rock )
 36 | NITRO MICROPHONE UNDERGROUND ( rap )
@@ -183,6 +183,14 @@ id|name
 38 | Mili
 39 | millennium parade
 40 | Miyashita Yuu
+
+# Ayase / YOASOBI
+
+title | url
+-|-
+群青 | https://www.youtube.com/watch?v=dGZqpVCJP3k
+群青 | https://www.youtube.com/watch?v=h1Ebp1_f6Q0
+怪物 | https://www.youtube.com/watch?v=hYF438PiuPI
 
 # PLAYLIST
 
@@ -194,6 +202,7 @@ Reol Playlist れをる メドレー | https://www.youtube.com/watch?v=76k8Ipst5
 Alohaii / Lone Alpha - Virtual Paradise [Full Album] | https://www.youtube.com/watch?v=Faxp1cwhP-4
 
 # PLAYLIST ( OTHER )
+
 name|url|time
 -|-|-
 Lo-fi Tranquil Vibes: Embrace the Serene | https://www.youtube.com/watch?v=rvb7kmqb888 | 32:51
